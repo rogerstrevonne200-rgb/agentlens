@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python3 test_basic.py)",
+      "Bash(curl *)",
+      "Bash(mkdir -p dashboard)",
+      "Bash(npm create *)",
+      "Bash(chmod +x *)",
+      "Bash(python *)",
+      "Bash(python3 /Users/44ghost/Desktop/agentlens/examples/minimal_example.py)"
+    ]
+  }
+}
